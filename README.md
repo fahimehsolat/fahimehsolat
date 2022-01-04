@@ -1,7 +1,7 @@
 - 👋 Hi, I’m fahimehsolat.
 - 👀 I’m interested in Python and mobile programming.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on simple python projects.
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 
 
 <!---
