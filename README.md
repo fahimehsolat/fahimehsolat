@@ -1,4 +1,4 @@
-- 👋 Hi, I’m fahimehsolat.
+- 👋 Hi, I’m FahimehSolat.
 - 👀 I’m interested in Python and mobile programming.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ...
